@@ -1,0 +1,14 @@
+hash: 98106501def505c6da3a28e764741a3af8dea4ef3f67aeff10452b74cba09333
+updated: 2016-11-30T17:06:59.805433462Z
+imports:
+- name: github.com/go-humble/detect
+  version: 714e9e4d821cb7daac42b10f6f91fe5da00fa6fb
+- name: github.com/go-humble/router
+  version: dfbc46556ec626b5bc2f49af7bb7378f327fa869
+- name: github.com/gopherjs/gopherjs
+  version: e34a5cd6a1bc7c4fde759f2d3039852fc68b5fcc
+  subpackages:
+  - js
+- name: honnef.co/go/js/dom
+  version: 24aa052bc5c63cfb9383bf59493ee48621ca788c
+testImports: []

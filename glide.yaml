@@ -1,0 +1,4 @@
+package: github.com/boyvinall/hellojs
+import:
+- package: github.com/go-humble/router
+- package: honnef.co/go/js/dom
